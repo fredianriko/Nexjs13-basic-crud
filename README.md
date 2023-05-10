@@ -39,3 +39,9 @@ pnpm dev
 # Extra Dependencies
 
 This project use daisyUI + Tailwind Css
+
+# Next step
+
+- Deploy to Vercel
+
+- Read other feature available in Nextjs
