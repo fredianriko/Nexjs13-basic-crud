@@ -1,3 +1,7 @@
+# Intro
+
+This project is following tutorial for Next.js Indonesian version, Thanks to this [Creator](https://www.youtube.com/watch?v=A4XsMMiNb40&ab_channel=CoderMedia)
+
 <!-- Installation -->
 
 1. Go to the `first` directory from terminal, and run `npm install` to install all the dependencies
@@ -31,3 +35,7 @@ yarn dev
 # or
 pnpm dev
 ```
+
+# Extra Dependencies
+
+This project use daisyUI + Tailwind Css
